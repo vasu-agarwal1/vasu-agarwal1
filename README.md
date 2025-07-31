@@ -66,14 +66,6 @@
 
 ---
 
-## 🎯 Daily Dev Routine
-
-- 🧠 Solve 2–3 DSA problems in **C++**
-- 🛠 Work on frontend/backend real-world project
-- 🎥 Watch and practice along with backend YouTube series
-- 🔄 Git commits + pushing to GitHub daily
-
----
 
 ## 📫 Connect with Me
 
@@ -85,9 +77,6 @@
 
 ---
 
-<p align="center">
-  <b><i>"Keep showing up. The path to greatness is walked one consistent step at a time." 💯</i></b>
-</p>
 
 
 <!--

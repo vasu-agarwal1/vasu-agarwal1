@@ -7,7 +7,7 @@
 
 ## 🌌 About Me
 
-- 🎓 3rd Year B.Tech (Software Engineering) @ **GCET**
+- 🎓 4th Year B.Tech (Software Engineering) @ **GCET**
 - 💡 Currently learning: **React**, **Tailwind CSS**, **Node.js**, **MongoDB**
 - 💻 Practicing DSA in **C++** with **Striver’s DSA Sheet**
 - 🔧 Building real-world, scalable projects (frontend + backend)

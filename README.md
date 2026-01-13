@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Vasu Agarwal 👋</h1>
 <p align="center">
-  <a href="https://linkedin.com/in/vasu-agarwal">
+  <a href="https://www.linkedin.com/in/vasu-agarwal-4473381a7/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:agarwal.vasu32@gmail.com">
@@ -46,7 +46,7 @@
 
 ## 🚀 Featured Projects
 
-### 🎥 **[Streamify - Multimedia Social Platform](https://github.com/vasu-agarwall)**
+### 🎥 **[Streamify - Multimedia Social Platform](https://github.com/vasu-agarwal1)**
 [cite_start]*A scalable hybrid application combining Next.js (SSR) and Express (REST API) for seamless video streaming.* [cite: 17, 19]
 
 - [cite_start]**Architecture:** Engineered a hybrid system with **JWT Access/Refresh Token Rotation** for secure sessions[cite: 19].
@@ -54,7 +54,7 @@
 - [cite_start]**UX:** Implemented **Optimistic UI** with **Redux Toolkit** for instant feedback on likes/comments[cite: 21].
 - [cite_start]**Tech:** Next.js 15, TypeScript, Node.js, Cloudinary, Multer[cite: 18, 22].
 
-### 🤖 **[Truth Bombs - AI Feedback Platform](https://github.com/vasu-agarwall)**
+### 🤖 **[Truth Bombs - AI Feedback Platform](https://github.com/vasu-agarwal1)**
 [cite_start]*An anonymous feedback system integrated with Generative AI for context-aware suggestions.* [cite: 23, 28]
 
 - [cite_start]**Optimization:** Reduced client-side bundle size and improved **Core Web Vitals (LCP)** by **40%** using Server Components.
@@ -64,15 +64,16 @@
 
 ---
 
+
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vasu-agarwall&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vasu-agarwall&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vasu-agarwal1&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vasu-agarwal1&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasu-agarwall&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasu-agarwal1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="60%" />
 </p>
 
 ---

@@ -1,95 +1,82 @@
-<h1 align="center">🧑‍💻 Vasu Agarwal</h1>
+<h1 align="center">Hi there, I'm Vasu Agarwal 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&lines=3rd+Year+Software+Engineering+Student+%F0%9F%93%9A;DSA+with+C%2B%2B+%E2%9A%96%EF%B8%8F;MERN+Stack+Developer+%F0%9F%94%A5;React+%2B+Tailwind+%7C+Node.js+%2B+MongoDB+%F0%9F%9A%80" alt="Typing animation" />
+  <a href="https://linkedin.com/in/vasu-agarwal">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:agarwal.vasu32@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://vasu-agarwal.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Full-Stack Software Engineer | Next.js & Scalable Backend Specialist</b><br/>
+  <i>Crafting high-performance web applications with modern architectures.</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=1000&lines=Building+Scalable+Backends+in+Node.js+%26+Next.js;Solver+of+Complex+Data+Problems+(MongoDB+Aggregations);200%2B+DSA+Problems+Solved+on+LeetCode;Open+Source+Enthusiast" alt="Typing animation" />
 </p>
 
 ---
 
-## 🌌 About Me
+## 👨‍💻 About Me
 
-- 🎓 4th Year B.Tech (Software Engineering) @ **GCET**
-- 💡 Currently learning: **React**, **Tailwind CSS**, **Node.js**, **MongoDB**
-- 💻 Practicing DSA in **C++** with **Striver’s DSA Sheet**
-- 🔧 Building real-world, scalable projects (frontend + backend)
+[cite_start]I am a **4th-year Computer Science Engineering student** at **Galgotias College of Engineering and Technology**[cite: 30, 31], specializing in **Full-Stack Development**. I move beyond basic CRUD applications to build scalable, production-ready systems. My focus is on **optimizing database performance**, ensuring **type safety**, and creating seamless **User Experiences**.
 
----
-
-## ⚙️ Tech Stack
-
-### 💻 Frontend  
-![HTML](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-
-### 🧰 Backend  
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
-
-### 🧪 Tools  
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![C++](https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+- [cite_start]🔭 **I’m currently building:** High-performance social platforms using **Next.js 15** & **TypeScript**.
+- [cite_start]⚡ **Core Strength:** Solving the **N+1 Query Problem** using MongoDB Aggregation Pipelines[cite: 20].
+- [cite_start]🧠 **Problem Solving:** Solved **200+ DSA problems** across LeetCode and GeeksForGeeks[cite: 37].
 
 ---
 
-## 🚧 Featured Projects
+## 🛠️ Technical Arsenal
 
-### ✅ Employee Management System  
-> Admins assign & track employee tasks | Employees mark them complete or failed  
-> `React + Tailwind` | Extending to full-stack with backend + AI
-
-### 🛒 Collaborative Shopping List (WIP)  
-> Create, edit & manage shared lists with clean UI  
-> `React + Tailwind` | Mobile-first design | Collaborative-ready
-
-### 📘 DSA Revision  
-> Practicing **C++ DSA** daily via Striver’s Sheet  
-> Focus on: Linked Lists, Trees, Graphs, DP, Backtracking
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js_15-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white) |
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
+
+### 🎥 **[Streamify - Multimedia Social Platform](https://github.com/vasu-agarwall)**
+[cite_start]*A scalable hybrid application combining Next.js (SSR) and Express (REST API) for seamless video streaming.* [cite: 17, 19]
+
+- [cite_start]**Architecture:** Engineered a hybrid system with **JWT Access/Refresh Token Rotation** for secure sessions[cite: 19].
+- [cite_start]**Performance:** Eliminated the **N+1 Query Problem** in feed generation using complex **MongoDB Aggregation Pipelines**[cite: 20].
+- [cite_start]**UX:** Implemented **Optimistic UI** with **Redux Toolkit** for instant feedback on likes/comments[cite: 21].
+- [cite_start]**Tech:** Next.js 15, TypeScript, Node.js, Cloudinary, Multer[cite: 18, 22].
+
+### 🤖 **[Truth Bombs - AI Feedback Platform](https://github.com/vasu-agarwall)**
+[cite_start]*An anonymous feedback system integrated with Generative AI for context-aware suggestions.* [cite: 23, 28]
+
+- [cite_start]**Optimization:** Reduced client-side bundle size and improved **Core Web Vitals (LCP)** by **40%** using Server Components.
+- [cite_start]**AI Integration:** Built a pipeline using **Gemini API** for intelligent message suggestions[cite: 28].
+- [cite_start]**Security:** Implemented **Zod** for strict runtime validation and passwordless auth via **NextAuth.js**[cite: 26, 27].
+- [cite_start]**Tech:** Next.js (App Router), NextAuth, Zod, MongoDB[cite: 24].
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vasu-agarwal1&theme=github_dark&show_icons=true&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vasu-agarwal1&theme=github-dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vasu-agarwall&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vasu-agarwall&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasu-agarwal1&layout=compact&theme=github_dark&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasu-agarwall&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="60%" />
 </p>
 
 ---
 
-
-## 📫 Connect with Me
-
 <p align="center">
-  <a href="mailto:agarwal.vasu32@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/vasu-agarwal-4473381a7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/vasu-agarwal1"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <i>"Talk is cheap. Show me the code."</i> — Linus Torvalds
 </p>
-
----
-
-
-
-<!--
-**vasu-agarwal1/vasu-agarwal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
